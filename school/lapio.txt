@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 this is the lapio file is just for fun dude!
+=======
+this is the lapio file just for demo purposes
+yo how u doing
+
+>>>>>>> Stashed changes
